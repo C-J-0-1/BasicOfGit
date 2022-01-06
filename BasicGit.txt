@@ -1,0 +1,41 @@
+Basics of Git 
+
+Init: To create an empty Git repository 
+
+Clone: To clone a repository 
+
+Add: To add a file or content 
+
+Commit: To record the changes 
+
+Log: show commit logs 
+
+Diff: To see the changes which have been made after commit 
+
+Rm: To remove a file (Opposite of Add) 
+
+Status: To check the status of working tree 
+
+ 
+
+Branch: List, create or delete branches 
+
+Switch: switch branches 
+
+Merge: Join two or more branches 
+
+Worktree: manage multiple work trees 
+
+ 
+
+Fetch: download refs from another repo 
+
+Pull: fetch from or integrate with another repo 
+
+Push: update remote refs with associated objects 
+
+ 
+
+Show: show various types of objects 
+
+Describe: give an object human readable name  
