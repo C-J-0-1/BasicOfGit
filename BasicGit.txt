@@ -1,3 +1,5 @@
+Hi from Jaykumar
+
 Basics of Git 
 
 Init: To create an empty Git repository 
@@ -39,3 +41,4 @@ Push: update remote refs with associated objects
 Show: show various types of objects 
 
 Describe: give an object human readable name  
+
